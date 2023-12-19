@@ -1,0 +1,5 @@
+env/
+backgrounds/*
+exports/*
+facts/*
+**/__pycache__/
