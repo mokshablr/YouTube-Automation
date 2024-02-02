@@ -3,3 +3,6 @@ backgrounds/*
 exports/*
 facts/*
 **/__pycache__/
+.env
+client_secrets.json
+upload.py-oauth2.json
